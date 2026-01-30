@@ -1,4 +1,4 @@
-# motivation-lang
+# langvation
 Frases motivacionais para estudantes com tradução em vários idiomas para aprendizado diário.
 
 
