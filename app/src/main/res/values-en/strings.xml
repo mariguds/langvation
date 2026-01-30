@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Langvation</string>
+    <string name="frase1">Believe in your dreams.</string>
+    <string name="frase2">You are capable of anything.</string>
+    <string name="frase3">Today’s effort is tomorrow’s success.</string>
+    <string name="next_phrase">Next phrase</string>
+    <string name="change_language">Change language</string>
+</resources>
