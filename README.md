@@ -2,7 +2,7 @@
 Frases motivacionais para estudantes com tradução em vários idiomas para aprendizado diário.
 
 
-# 🌟 NomeDoApp //
+# 🌟 langvation //
 > Frases motivacionais para estudantes com tradução em diferentes idiomas. Aprenda e inspire-se todos os dias.
 
 ## ✨ Sobre o projeto
@@ -40,5 +40,5 @@ Este projeto ainda está em construção. Contribuições e feedbacks são muito
 
 ## 🤝 Contato
 
-Desenvolvido por Mariana Guedes,,  
+Desenvolvido por Mariana Guedes. 
 ***
