@@ -13,7 +13,7 @@ A proposta do app é simples, mas poderosa: exibir frases motivacionais diárias
 
 ## 🎯 Objetivos
 
-- Apoiar estudantes com mensagens que inspiram e motivam
+- Apoiar aspirantes com mensagens que inspiram e motivam
 - Ajudar no aprendizado de idiomas através de frases e expressões reais
 - Criar um ambiente que conecta cultura, linguagem e desenvolvimento pessoal
 
@@ -21,7 +21,7 @@ A proposta do app é simples, mas poderosa: exibir frases motivacionais diárias
 
 - Kotlin  
 - Android Studio  
-- (adicione aqui se usar SQLite, Firebase, Flutter, etc.)
+-  Flutter, 
 
 ## 📱 Funcionalidades planejadas
 
